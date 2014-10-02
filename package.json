@@ -1,0 +1,29 @@
+{
+  "name": "punch-extendedmustache-engine",
+  "version": "0.0.1",
+  "description": "This rendering engine ist based on the original punch mustache engine, but passes the whole content object to potential helpers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ghost23/punch-extendedmustache-engine.git"
+  },
+  "keywords": [
+    "punch",
+    "mustache",
+    "render",
+    "engine"
+  ],
+  "author": "Sven Busse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghost23/punch-extendedmustache-engine/issues"
+  },
+  "homepage": "https://github.com/ghost23/punch-extendedmustache-engine",
+  "dependencies": {
+    "mustache": "^0.8.2",
+    "underscore": "^1.7.0"
+  }
+}
